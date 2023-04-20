@@ -1,0 +1,3 @@
+[submodule "git-submodul"]
+	path = git-submodul
+	url = https://github.com/chumano/git-submodul.git
